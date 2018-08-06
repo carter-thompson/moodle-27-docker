@@ -14,3 +14,5 @@ __Warning!__ This repo is meant for development usage. Be sure to change the MyS
 1. Go to [http://localhost:3456/moodle](http://localhost:3456/moodle). Proceed through every screen unless otherwise noted below.
 2. On the "Confirm Paths" screen, change "Data Directory" to `/var/moodledata`
 3. On the "Database settings" screen, use the following values: Database name = `exampleDB`; Database user = `example_user`; Database password = `Admin2015`
+4. Continue through the remaining screens and set up an admin user.
+5. Now you're Legacy Moodlin'!
