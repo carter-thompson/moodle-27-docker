@@ -7,7 +7,7 @@ __Warning!__ This repo is meant for development usage. Be sure to change the MyS
 1. Install Docker
 2. Clone this repo
 3. `docker build -t moodle path/to/repo`
-4. `docker run -p 3456:80 -d name=moodle1 moodle`
+4. `docker run -p 3456:80 -d --name=moodle1 moodle`
 
 ## Configuring
 
